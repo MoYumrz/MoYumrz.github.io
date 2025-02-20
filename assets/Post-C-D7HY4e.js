@@ -1,0 +1,1 @@
+import{P as e}from"./PostList-CDHRHCzN.js";import{d as o,c as t,i as r,o as s}from"./index-DM1-aU-Q.js";import"./el-infinite-scroll-l0sNRNKZ.js";/* empty css                 */const l=o({__name:"Post",setup(a){return(n,c)=>(s(),t("div",null,[r(e)]))}});export{l as default};

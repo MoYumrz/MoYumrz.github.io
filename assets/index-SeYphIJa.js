@@ -1,0 +1,1 @@
+import{a4 as r}from"./index-DM1-aU-Q.js";function n(){return r({url:"/user/preference/list",method:"get"})}function u(e){return r({url:"/user/preference/"+e,method:"post"})}function o(e){return r({url:"/user/preference/"+e,method:"delete"})}export{u as a,n as l,o as r};
